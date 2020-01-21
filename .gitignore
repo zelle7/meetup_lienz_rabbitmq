@@ -1,0 +1,10 @@
+# python
+/venv/
+*.pyc
+
+# java
+/java/target/
+
+# IDE
+/.idea/
+*.iml
